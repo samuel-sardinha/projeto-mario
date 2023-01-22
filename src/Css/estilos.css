@@ -84,7 +84,7 @@ body{
     height: 100vh;
 }
 
-.fundo-video ::after{
+.fundo-video::after{
     content: "";
     height: 100vh;
     width: 100vw;
